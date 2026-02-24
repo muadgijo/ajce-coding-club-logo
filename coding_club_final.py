@@ -1,4 +1,4 @@
-# AJCE Coding Club — CLI terminal aesthetic, cooler type treatment
+# AJCE Coding Club — CLI terminal aesthetic
 
 import numpy as np
 import matplotlib
